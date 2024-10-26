@@ -1,6 +1,5 @@
-# Hi 👋, I'm Quang Tran, but you can call me Anthony.
-
-I've dedicated my life to becoming the best iOS Engineer I can be!
+<h1 align="center">Hi 👋, I'm Quang Tran</h1>
+<h2 align="center">I've dedicated my life to becoming the best iOS Engineer I can be!</h2>
 
 - 💻 I'm an iOS Engineer at [Appetiser Apps](https://appetiser.com.au).
 - ✍️ I regularly write articles on [Medium](https://medium.com/@qquang269).
@@ -14,6 +13,7 @@ I've dedicated my life to becoming the best iOS Engineer I can be!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quang-tran-7780a962/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@qquang269)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@MrFianal)
+[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat&logo=TikTok&logoColor=white)](https://www.tiktok.com/@anthonytran1810?_t=8qr2f47zfL5&_r=1)
 
 ---
 
